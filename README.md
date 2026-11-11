@@ -1,76 +1,76 @@
-# 🎮 Demo - Videojuego de Plataformas 2D
+# Videojuego 2D de Plataformas - Demo
 
-## 📖 Descripción
+## Descripción
 
-Proyecto personal enfocado en el desarrollo de videojuegos, donde diseñé e implementé una demo jugable de un videojuego 2D estilo Pixel Art utilizando **Unity** y **C#**.
+Proyecto personal de desarrollo de videojuegos 2D utilizando Unity y C#. Consiste en una demo jugable de plataformas con estética Pixel Art, enfocada en la implementación de mecánicas de movimiento, combate e interacción con el entorno.
 
-Durante el desarrollo trabajé en la implementación de mecánicas de movimiento, combate, animaciones, detección de colisiones, diseño de niveles y lógica de juego basada en **Programación Orientada a Objetos (POO)**.
+Durante su desarrollo se implementaron sistemas de movimiento, animaciones, detección de colisiones, gestión de estados del personaje y diseño de niveles, aplicando principios de Programación Orientada a Objetos (POO).
 
-Esta versión incluye el primer nivel funcional y las mecánicas principales que servirán como base para futuras expansiones del proyecto.
-
----
-
-## 🛠 Tecnologías Utilizadas
-
-- Unity
-- C#
-- Programación Orientada a Objetos (POO)
-- Pixel Art
-- Animator
-- Física 2D
-- Colliders
-- Sistema de Combate
-- Diseño de Niveles
-- Gestión de Sprites
+La versión actual incluye un primer nivel funcional y las mecánicas principales del videojuego, estableciendo una base para futuras mejoras y expansiones.
 
 ---
 
-## 🎥 Gameplay
+## Vista previa del proyecto
 
-🔗 **Ver Gameplay:**  
-https://youtu.be/dGTI2Q7l8t8
+<!-- Reemplazar la ruta por la ubicación de la captura dentro del repositorio -->
 
----
-
-## 📥 Descargar Demo
-
-🔗 **Descargar Juego:**  
-https://drive.google.com/file/d/1xRH34oL1f9jDwRv75SVgZCC8jtdvHXQo/view?usp=sharing
+<img width="1181" height="657" alt="image" src="https://github.com/user-attachments/assets/e0ccc966-3d62-440e-a842-4a641baaf048" />
 
 ---
 
-## 🎮 Controles
+## Tecnologías y herramientas
+
+- **Unity:** Motor de desarrollo del videojuego.
+- **C#:** Lenguaje utilizado para la programación de las mecánicas y lógica del juego.
+- **Programación Orientada a Objetos (POO):** Organización y estructuración del código.
+- **Animator:** Gestión de animaciones y transiciones.
+- **Unity Physics 2D:** Sistema de físicas y detección de colisiones.
+- **Pixel Art:** Estilo visual y gestión de sprites.
+- **Level Design:** Diseño y construcción de escenarios.
+
+---
+
+## Mecánicas implementadas
+
+- Movimiento horizontal del personaje.
+- Sistema de salto.
+- Sistema de combate y combos.
+- Mecánicas de Dash y rodar.
+- Ataques especiales en posición agachada.
+- Deslizamiento (Slide).
+- Gestión de animaciones mediante Animator.
+- Detección y gestión de colisiones.
+- Control de estados del personaje.
+- Diseño de un primer nivel funcional.
+
+---
+
+## Controles
 
 | Acción | Tecla |
-|----------|----------|
-| Moverse | A / D |
+|:---|:---:|
+| Movimiento | A / D |
 | Agacharse | S |
 | Saltar | Espacio |
 | Ataque / Combo | J |
 | Dash | K |
 | Rodar | Shift |
-| Ataque Agachado | S + J |
+| Ataque agachado | S + J |
 | Slide | S + K |
 
 ---
 
-## ✨ Características Implementadas
+## Gameplay
 
-✔ Movimiento lateral del personaje  
-✔ Sistema de salto  
-✔ Sistema de combate con combos  
-✔ Dash y rodar  
-✔ Ataques especiales agachado  
-✔ Slide de desplazamiento  
-✔ Animaciones mediante Animator  
-✔ Detección de colisiones  
-✔ Diseño de nivel funcional  
-✔ Gestión de estados del personaje
+
+**[Ver Gameplay en YouTube](https://youtu.be/dGTI2Q7l8t8)**
 
 ---
 
-## 🚀 Estado del Proyecto
+## Estado del proyecto
 
-**En desarrollo.**
+**Estado:** En desarrollo.
 
-Esta demo representa una versión temprana del proyecto y tiene como objetivo mostrar las mecánicas principales, la arquitectura del código y la dirección general del videojuego.
+Esta versión corresponde a una primera demo funcional. El proyecto permite demostrar las mecánicas implementadas, la lógica de programación y el uso de herramientas de desarrollo de videojuegos con Unity.
+
+Se contempla continuar mejorando sus sistemas, ampliar los escenarios y agregar nuevas funcionalidades.
